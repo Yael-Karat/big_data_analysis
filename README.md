@@ -4,7 +4,7 @@
 
 ---
 
-## 📄 [big_exercise.docx](./big_exercise.docx)  
+## 📄 [big_exercise.docx](big_exercise.docx)  
 מסמך מרכזי ומעמיק שמתאר את שלבי העבודה בתרגיל זה. המסמך כולל:
 
 - מקורות הנתונים וגודלם (מעל 11 מיליון שורות).
@@ -17,12 +17,12 @@
 
 ---
 
-## 📁 [central_west_hourly_weather_sample.csv](./central_west_hourly_weather_sample.csv)  
+## 📁 [central_west_hourly_weather_sample.csv](central_west_hourly_weather_sample.csv)  
 קובץ נתונים לדוגמה בפורמט CSV, המכיל את 500 השורות הראשונות מתוך קובץ הנתונים המקורי הגדול.
 
 ---
 
-## 🐍 [duckdb_and_sqlite.py](./duckdb_and_sqlite.py)  
+## 🐍 [duckdb_and_sqlite.py](duckdb_and_sqlite.py)  
 קובץ Python שמבצע את השלבים הבאים:
 
 - **טעינת נתונים ל־DuckDB**: טעינת קובץ CSV גדול למסד הנתונים ויצירת טבלה מרכזית.
@@ -34,12 +34,12 @@
 
 ---
 
-## 🗃 [central_west_data.db](./central_west_data.db)  
+## 🗃 [central_west_data.db](central_west_data.db)  
 מסד נתונים בפורמט **SQLite**, הכולל את הטבלאות הקטנות ששימשו לניתוח והוויזואליזציה בדאשבורד.
 
 ---
 
-## 📊 [streamlit_dashboard.py](./streamlit_dashboard.py)  
+## 📊 [streamlit_dashboard.py](streamlit_dashboard.py)  
 קובץ הקוד הראשי של הדאשבורד, שנכתב ב־**Streamlit**. הקוד מחולק לעמודים עם ניווט צדדי ומכיל:
 
 - ויזואליזציות גרפיות
@@ -48,7 +48,7 @@
 
 ---
 
-## 📦 [requirements.txt](./requirements.txt)  
+## 📦 [requirements.txt](requirements.txt)  
 רשימת כל חבילות ה־Python הנדרשות להרצת הדאשבורד, כולל:
 
 - `streamlit`
